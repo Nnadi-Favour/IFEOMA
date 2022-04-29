@@ -1,0 +1,5 @@
+IST ASSIGMENT
+WHAT ARE DEVICE DRIVES AND DEVICE CONTROLLER
+Device driver is a software program whereas device controller is a hardware unitice-driver.
+A device driver allows a computer to interface and interact with a specific hardware device, such as a printer, sound card, graphics card, etc.
+The device controller receives the data from a connected device, stores it temporarily, and then communicates the data to its device driver.
